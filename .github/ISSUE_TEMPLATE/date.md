@@ -1,7 +1,7 @@
 ---
 name: デート
 about: デートのテンプレート
-title: xxxx/xx/xx デート :heart
+title: xxxx/xx/xx デート :heart:
 labels: "date"
 ---
 

@@ -7,4 +7,4 @@ labels: "dinner"
 
 # menu
 
-# ごはんの名前 :smile
+# ごはんの名前 :smile:
